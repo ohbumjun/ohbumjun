@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I want to go Spain someday as a Developer haha 👋
 
 <!--
 **ohbumjun/ohbumjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
