@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dhsys112)](https://solved.ac/dhsys112)
 
 <br/>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ohbumjun)](https://velog.io/@dhsys112)
-https://velog.io/@dhsys112
-<br/>
+### BLOG
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
-### Stack
+### STACK
 #### Front-End
 [![Typescript Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)](https://velog.io/@dhsys112)
 [![Typescript Badge](https://img.shields.io/badge/Typescript-lightblue?style=flat-square&logo=typescript)](https://velog.io/@dhsys112)
