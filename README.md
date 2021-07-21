@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dhsys112)](https://solved.ac/dhsys112)
 
 <br/>
-### BLOG
 
+### BLOG
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
 ### STACK
