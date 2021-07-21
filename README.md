@@ -26,21 +26,19 @@ https://velog.io/@dhsys112
 
 ### Stakcs
 #### Front-End
-[![Typescript Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)](https://www.youtube.com/c/kyleschool)
-[![Typescript Badge](https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=typescript)](https://www.youtube.com/c/kyleschool)
-[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript)](https://www.youtube.com/c/kyleschool)
-[![Html Badge](https://img.shields.io/badge/Html5-orange?style=flat-square&logo=Html5)](https://www.youtube.com/c/kyleschool)
-[![Css Badge](https://img.shields.io/badge/Css-blue?style=flat-square&logo=Css3)](https://www.youtube.com/c/kyleschool)
+[![Typescript Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)](https://velog.io/@dhsys112)
+[![Typescript Badge](https://img.shields.io/badge/Typescript-lightblue?style=flat-square&logo=typescript)](https://velog.io/@dhsys112)
+[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript)](https://velog.io/@dhsys112)
+[![Html Badge](https://img.shields.io/badge/Html5-orange?style=flat-square&logo=Html5)](https://velog.io/@dhsys112)
+[![Css Badge](https://img.shields.io/badge/Css-blue?style=flat-square&logo=Css3)](https://velog.io/@dhsys112)
 <br/>
 <br/>
 #### Back-End
-[![NodeJS Badge](https://img.shields.io/badge/NodeJS-yellow?style=flat-square&logo=node.js)](https://www.youtube.com/c/kyleschool)
-[![MySql Badge](https://img.shields.io/badge/MySql-yellow?style=flat-square&logo=MySQL)](https://www.youtube.com/c/kyleschool)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-yellow?style=flat-square&logo=MongoDB)](https://www.youtube.com/c/kyleschool)
+[![NodeJS Badge](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=node.js)](https://velog.io/@dhsys112)
+[![MySql Badge](https://img.shields.io/badge/MySql-lightgreen?style=flat-square&logo=MySQL)](https://velog.io/@dhsys112)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=MongoDB)](https://velog.io/@dhsys112)
 
-[![P Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 
 #### Game
-[![P Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+[![C++ Badge](https://img.shields.io/badge/C++-purple?style=flat-square&logo=C++&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
+
