@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <br/>
 ### BLOG
+
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
 ### STACK
