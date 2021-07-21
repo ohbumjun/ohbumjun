@@ -40,5 +40,5 @@ https://velog.io/@dhsys112
 
 
 #### Game
-[![C++ Badge](https://img.shields.io/badge/c++-purple?style=flat-square&logo=C++&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
+[![C++ Badge](https://img.shields.io/badge/C++-purple?style=flat-square&logo=c++&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
