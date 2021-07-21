@@ -27,11 +27,20 @@ https://velog.io/@dhsys112
 https://velog.io/@dhsys112
 <br/>
 
+### Front-End
+[![Typescript Badge](https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=typescript)](https://www.youtube.com/c/kyleschool)
 [![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript)](https://www.youtube.com/c/kyleschool)
 [![Html Badge](https://img.shields.io/badge/Html5-orange?style=flat-square&logo=Html5)](https://www.youtube.com/c/kyleschool)
 [![Css Badge](https://img.shields.io/badge/Css-blue?style=flat-square&logo=Css3&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 <br/>
 <br/>
-[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+### Back-End
+[![P Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 [![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 
+[![P Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+
+### Game
+[![P Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
