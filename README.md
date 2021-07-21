@@ -28,7 +28,7 @@ https://velog.io/@dhsys112
 <br/>
 
 [![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-[![Html Badge](https://img.shields.io/badge/Html5-yellow?style=flat-square&logo=Html&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+[![Html Badge](https://img.shields.io/badge/Html5-yellow?style=flat-square&logo=Html5&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 [![Css Badge](https://img.shields.io/badge/Css-yellow?style=flat-square&logo=Css&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 [![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 [![Javascript Badge](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
