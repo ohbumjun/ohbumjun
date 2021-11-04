@@ -38,5 +38,8 @@ Here are some ideas to get you started:
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=MongoDB)](https://velog.io/@dhsys112)
 
 #### Game
-[![C++ Badge](https://img.shields.io/badge/C++-purple?style=flat-square&logo=c&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
+[![C++ Badge](https://img.shields.io/badge/C++-purple?style=flat-square&logo=C++&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
+
+#### Algorithm
+[![C++ Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
