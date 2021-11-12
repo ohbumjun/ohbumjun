@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 [![C++ Badge](https://img.shields.io/badge/C++-purple?style=flat-square&logo=C++&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
 #### Algorithm
-[![C++ Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
+[![Python Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
