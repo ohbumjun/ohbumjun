@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### STACK
 #### Game
-[![C++ Badge](https://img.shields.io/badge/C++--grey)
+[![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 
 #### Algorithm
-[![Python Badge](https://img.shields.io/badge/Python-lightblue?style=flat-square&logo=Python&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
+[![Python Badge](https://img.shields.io/badge/Python-lightblue?style=flat-square&logo=Python)
 
