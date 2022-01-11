@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 #### Game
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 ![DirectX11](https://img.shields.io/badge/DirectX11-darkgrey?style=flat-square)
-![WinAPI](https://img.shields.io/badge/WinAPI-darkgrey?style=flat-square)
+![WinAPI](https://img.shields.io/badge/WinAPI-purple?style=flat-square)
 
 #### Algorithm
 ![Python Badge](https://img.shields.io/badge/Python-lightblue?style=flat-square&logo=Python)
