@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ohbumjun's github stats](https://github-readme-stats.vercel.app/api?username=ohbumjun&show_icons=true)
+![ohbumjun's github stats](https://github-readme-stats.vercel.app/api?username=ohbumjun&show_icons=true&theme=dark)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dhsys112)](https://solved.ac/dhsys112)
 
