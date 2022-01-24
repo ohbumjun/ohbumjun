@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dhsys112)](https://solved.ac/dhsys112)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbumjun&layout=compact)](https://github.com/ohbumjun/github-readme-stats)
-
 <br/>
 
 ### BLOG
