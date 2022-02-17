@@ -1,4 +1,4 @@
-### Growing as a Future Game Client Programmer 👋
+## Growing as a Future Game  Programmer 👋
 
 <!--
 **ohbumjun/ohbumjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
