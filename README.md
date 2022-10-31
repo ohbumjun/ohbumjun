@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dhsys112)](https://solved.ac/dhsys112)
 
-<br/>
-
 ### BLOG
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
 
 ### STACK
 #### Game
+![Unreal](https://img.shields.io/badge/Unreal-black?style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 ![DirectX11](https://img.shields.io/badge/DirectX11-darkgrey?style=flat-square)
 ![WinAPI](https://img.shields.io/badge/WinAPI-purple?style=flat-square)
