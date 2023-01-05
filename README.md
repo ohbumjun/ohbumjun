@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 ![ohbumjun's github stats](https://github-readme-stats.vercel.app/api?username=ohbumjun&show_icons=true&theme=github_dark)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dhsys112)](https://solved.ac/dhsys112)
-
-### BLOG
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dhsys112)](https://velog.io/@dhsys112)
-
 ### STACK
 #### Game
 ![Unreal](https://img.shields.io/badge/UNREAL5-black?style=flat-square)
