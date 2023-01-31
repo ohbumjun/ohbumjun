@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![HLSL](https://img.shields.io/badge/HLSL-blue?style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-darkblue?style=flat-square)
 ![Vulkan](https://img.shields.io/badge/Vulkan-lightblue?style=flat-square)
-![Metal](https://img.shields.io/badge/Metal-lightpurple?style=flat-square)
+![Metal](https://img.shields.io/badge/Metal-lightgrey?style=flat-square)
 
 #### Algorithm
 ![Python Badge](https://img.shields.io/badge/Python-lightblue?style=flat-square&logo=Python)
