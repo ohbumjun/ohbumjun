@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 ![WinAPI](https://img.shields.io/badge/WinAPI-purple?style=flat-square)
 ![HLSL](https://img.shields.io/badge/HLSL-blue?style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-darkblue?style=flat-square)
-![Vulkan](https://img.shields.io/badge/Vulkan-lightblue?style=flat-square)
+
+#### Data Analysis
+![Python Badge](https://img.shields.io/badge/Python-lightblue?style=flat-square&logo=Python)
 
 #### Algorithm
-![Python Badge](https://img.shields.io/badge/Python-lightblue?style=flat-square&logo=Python)
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 
