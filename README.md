@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ohbumjun's github stats](https://github-readme-stats.vercel.app/api?username=ohbumjun&show_icons=true&theme=github_dark)
-
 ### STACK
 #### Game
 ![Unreal](https://img.shields.io/badge/UNREAL5-black?style=flat-square)
