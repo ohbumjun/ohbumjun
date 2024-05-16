@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 ### DEGREE
 - AI Curriculum (Statistic + Computer Science)
-- Telecommnunication Engineering (정보통신공학)
+- Telecommunication Engineering (정보통신공학)
