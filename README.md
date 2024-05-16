@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### STACK
-#### Game
+#### GAME
 ![Unreal](https://img.shields.io/badge/UNREAL5-black?style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 ![DirectX11](https://img.shields.io/badge/DirectX11-darkgrey?style=flat-square)
@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 ![HLSL](https://img.shields.io/badge/HLSL-blue?style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-darkblue?style=flat-square)
 
-#### Data Analysis
-![Python Badge](https://img.shields.io/badge/Python-lightblue?style=flat-square&logo=Python)
-
-#### Algorithm
+#### ALGORITHM
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 
 ### CERTIFICATE
