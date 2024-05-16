@@ -30,3 +30,14 @@ Here are some ideas to get you started:
 #### Algorithm
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 
+### CERTIFICATE
+- Linux Master 2급
+- 정보처리기사
+- 네트워크 관리사 2급
+- SQLD 개발자
+- Cos Pro C 1급
+- Cos Pro C++ 1급
+
+### DEGREE
+- AI Curriculum (Statistic + Computer Science)
+- Telecommnunication Engineering (정보통신공학)
