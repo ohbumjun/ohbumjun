@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 #### ALGORITHM
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 
-### CERTIFICATE
+#### CERTIFICATE
 - Linux Master 2급
 - 정보처리기사
 - 네트워크 관리사 2급
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - Cos Pro C 1급
 - Cos Pro C++ 1급
 
-### DEGREE
+#### DEGREE
 - AI Curriculum (Statistic + Computer Science)
 - Telecommunication Engineering (정보통신공학)
