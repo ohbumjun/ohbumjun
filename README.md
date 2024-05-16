@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 - AI Curriculum (Statistic + Computer Science)
 - Telecommunication Engineering (정보통신공학)
 
+-----------------------------------------------------------------------
+
 ### SKILL
 #### Parsing
 - Json, Yaml, Message Pack
