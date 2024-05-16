@@ -38,3 +38,14 @@ Here are some ideas to get you started:
 #### DEGREE
 - AI Curriculum (Statistic + Computer Science)
 - Telecommunication Engineering (정보통신공학)
+
+### SKILL
+#### Parsing
+- Json, Yaml, Message Pack
+#### AST
+- Clang (C++), Rosyln (C#)
+#### Data Oriented
+- ECS (SparseSet, Archetype)
+#### Optimization
+- Allocator   : RedBlackTree + Free List Allocator / Paged Allocator
+- MultiThread : Job System , Thread Pool 
