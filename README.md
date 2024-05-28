@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 - 정보처리기사
 - 네트워크 관리사 2급
 - SQLD 개발자
-- Cos Pro C 1급
-- Cos Pro C++ 1급
+
+#### INTERNATIONAL CERTIFICATE
+- CPA
+- CCNA
 
 #### DEGREE
 - AI Curriculum (Statistic + Computer Science)
