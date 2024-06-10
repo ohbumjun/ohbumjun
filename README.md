@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - SQLD 개발자
 
 #### INTERNATIONAL CERTIFICATE
-- CPA
+- CPA (C++)
+- CLA (C)
 - CCNA
 
 #### DEGREE
