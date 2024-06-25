@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 - AI Curriculum (Statistic + Computer Science)
 - Telecommunication Engineering (정보통신공학)
 
+#### Work Experience
+- Dungeon Delivery (Android)
+https://play.google.com/store/search?q=%EB%8D%98%EC%A0%84%20%EB%94%9C%EB%A6%AC%EB%B2%84%EB%A6%AC&c=apps
