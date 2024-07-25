@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 ![WinAPI](https://img.shields.io/badge/WinAPI-purple?style=flat-square)
 ![HLSL](https://img.shields.io/badge/HLSL-blue?style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-darkblue?style=flat-square)
-
-#### ALGORITHM
+language
+#### LANGUAGE
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
+![C# Badge](https://img.shields.io/badge/C#-blue?style=flat-square)
+![C Badge](https://img.shields.io/badge/C-purple?style=flat-square)
 
 #### CERTIFICATE
 - Linux Master 2급
@@ -42,7 +44,11 @@ Here are some ideas to get you started:
 - AI Curriculum (Statistic + Computer Science)
 - Telecommunication Engineering (정보통신공학)
 
-#### Work Experience
+#### EDUCATION
+- Purdue University IOT Summer Vacation Program      (2021.07 ~ 2021.08)
+- AssortRock Academy Game Client/Engine Programming  (2021.07 ~ 2022.06)
+
+#### WORK EXPERIENCE
 - Dungeon Delivery (Android)
   
 https://play.google.com/store/search?q=%EB%8D%98%EC%A0%84%20%EB%94%9C%EB%A6%AC%EB%B2%84%EB%A6%AC&c=apps
