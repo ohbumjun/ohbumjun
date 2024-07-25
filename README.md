@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 language
 #### LANGUAGE
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
-![C# Badge](https://img.shields.io/badge/C#-blue?style=flat-square)
+![CSharp Badge](https://img.shields.io/badge/C#-blue?style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-purple?style=flat-square)
 
 #### CERTIFICATE
