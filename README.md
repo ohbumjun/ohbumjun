@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 #### INTERNATIONAL CERTIFICATE
 - CPA (C++)
 - CLA (C)
-- CCNA
 
 #### DEGREE
 - AI Curriculum (Statistic + Computer Science)
