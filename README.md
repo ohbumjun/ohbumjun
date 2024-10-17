@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![WinAPI](https://img.shields.io/badge/WinAPI-purple?style=flat-square)
 ![HLSL](https://img.shields.io/badge/HLSL-blue?style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-darkblue?style=flat-square)
-language
+
 #### LANGUAGE
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat-square)
 ![CSharp Badge](https://img.shields.io/badge/CSharp-darkblue?style=flat-square)
