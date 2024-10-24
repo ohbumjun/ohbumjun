@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 #### DEGREE
 - AI Curriculum (Statistic + Computer Science)
-- Telecommunication Engineering (정보통신공학)
+- Information and Communication Engineering (정보통신공학)
 
 #### EDUCATION
 - Purdue University IOT Summer Vacation Program      (2021.07 ~ 2021.08)
