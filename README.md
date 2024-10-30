@@ -51,3 +51,9 @@ Here are some ideas to get you started:
 - Dungeon Delivery (Android)
   
 https://play.google.com/store/search?q=%EB%8D%98%EC%A0%84%20%EB%94%9C%EB%A6%AC%EB%B2%84%EB%A6%AC&c=apps
+
+#### Linked IN
+- https://www.linkedin.com/in/bum-jun-oh-3400711b1/
+
+#### PortFolio
+- https://www.miricanvas.com/v/13h9yic
