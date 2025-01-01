@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ![C Badge](https://img.shields.io/badge/C-purple?style=flat-square)
 
 #### CERTIFICATE
-- Linux Master 2급
-- 정보처리기사
-- 네트워크 관리사 2급
-- SQLD 개발자
+- Linux Master 2급 (Linux)
+- 정보처리기사 (Computer Programming)
+- 네트워크 관리사 2급 (Computer Network)
+- SQLD 개발자 (Database)
 
 #### INTERNATIONAL CERTIFICATE
 - CPA (C++)
@@ -56,7 +56,8 @@ https://play.google.com/store/search?q=%EB%8D%98%EC%A0%84%20%EB%94%9C%EB%A6%AC%E
 - https://www.linkedin.com/in/bum-jun-oh-3400711b1/
 
 #### PortFolio
-- https://www.miricanvas.com/v/13h9yic
+- https://www.miricanvas.com/v/13h9yic (Korean)
+- https://www.miricanvas.com/v/143n4eq (English)
 
 #### Youtube
 - https://www.youtube.com/@mrawesome-o7p
