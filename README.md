@@ -61,3 +61,6 @@ https://play.google.com/store/search?q=%EB%8D%98%EC%A0%84%20%EB%94%9C%EB%A6%AC%E
 
 #### Youtube
 - https://www.youtube.com/@mrawesome-o7p
+
+#### Blog
+- https://ohbumjun.github.io/mrawesome.github.io/
