@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 - AssortRock Academy Game Client/Engine Programming  (2021.07 ~ 2022.06)
 
 #### WORK EXPERIENCE
-- 
-- Dungeon Delivery (Android)
-https://play.google.com/store/search?q=%EB%8D%98%EC%A0%84%20%EB%94%9C%EB%A6%AC%EB%B2%84%EB%A6%AC&c=apps
+- Database Engine Programmer(~)   : SAP Labs Korea 
+- Game Engine Programmer (2 year) : Com2us, Seoul
+- Web Programmer Intern (6 month)
 
 #### Linked IN
 - https://www.linkedin.com/in/bum-jun-oh-3400711b1/
