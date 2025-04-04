@@ -1,4 +1,4 @@
-## GAME ENGINE PROGRAMMER 👋
+## DATABASAE ENGINE PROGRAMMER 👋
 
 <!--
 **ohbumjun/ohbumjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 - AssortRock Academy Game Client/Engine Programming  (2021.07 ~ 2022.06)
 
 #### WORK EXPERIENCE
+- 
 - Dungeon Delivery (Android)
-  
 https://play.google.com/store/search?q=%EB%8D%98%EC%A0%84%20%EB%94%9C%EB%A6%AC%EB%B2%84%EB%A6%AC&c=apps
 
 #### Linked IN
